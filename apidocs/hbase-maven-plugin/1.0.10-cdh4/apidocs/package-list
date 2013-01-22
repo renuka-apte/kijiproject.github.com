@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+org.apache.hadoop.hbase.util
+>>>>>>> Updates docs of hbase-maven-plugin to 1.0.10
+org.kiji.maven.plugins.hbase
